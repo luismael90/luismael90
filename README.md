@@ -1,10 +1,14 @@
 ## "Olá, eu sou Luis Ismael";
-<a href=""><img align="right" width="130em" height="130em" alt="ChatGPT Image 15 de jul  de 2025, 13_00_04" src="https://github.com/user-attachments/assets/3f1c4649-1fc9-47c7-b164-8d66c7940995"/></a>
+<a href=""><img align="right" width="150em" height="150em" alt="ChatGPT Image 15 de jul  de 2025, 13_00_041" src="https://github.com/user-attachments/assets/818178ce-f63a-4302-90ca-5f0ffb8bc4fd"/></a>
 - 🔭 Em busca da primeira oportunidade 
+
 - 🌱 Estudando front-end
+  
 - 🤔 Procurando aprender cada dia mais!
+  
 - ⚡ Fun fact: Aberto para vagas internacionais = TRUE
 
+##
 
 <div>
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=luismael90&show_icons=true&theme=transparent"/>
